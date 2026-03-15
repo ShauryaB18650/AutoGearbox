@@ -1,0 +1,6 @@
+﻿"Global Module"= 2'Compatibility Number
+"1nTeeth"= 36'number of teeth in Gear1
+"2nTeeth"= 24'number of teeth in Gear1
+"3nteeth"= 18'number of teeth in Gear3
+"4nteeth"= 48'number of teeth in Gear4
+"GlobalPressureAngle"= 10
